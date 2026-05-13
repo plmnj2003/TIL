@@ -19,6 +19,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Python](python/)
 - [Web](web/)
 - [AI / LLM](ai/)
+- [RAG](rag/)
 - [Git](git/)
 - [Tools](tools/)
 - [etc](etc/)
@@ -61,3 +62,4 @@ Any extra thoughts, links, or questions I still have.
 | Date | Topic | Title |
 |------|-------|-------|
 | 2026-05-13 | AI / LLM | [Started building a Korean-to-English story builder using Claude API](ai/2026-05-13-claude-api-story-builder.md) |
+| 2026-05-13 | RAG | [Multimodal RAG](rag/2026-05-13-multimodal-rag.md) |
